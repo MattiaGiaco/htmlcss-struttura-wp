@@ -36,3 +36,27 @@ footer{
   background-color: darkseagreen;
   margin-bottom: 10px;
 }
+
+.content-title, .content-info , .side-left, .side-right{
+  background-color: green;
+}
+
+.content-info , .side-left, .side-right{
+  float: left;
+}
+
+.main-content .content-title{
+  min-height: 60px;
+  margin-bottom: 10px;
+}
+
+.main-content .side-left, .side-right{
+  min-height: 400px;
+  width: 23%;
+}
+
+.main-content .content-info{
+  min-height: 400px;
+  width: 50%;
+  margin: auto 2%;
+}
