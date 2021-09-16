@@ -9,3 +9,30 @@
   clear: both;
   display: table;
 }
+
+body{
+  margin: 20px 100px;
+}
+
+header{
+  height: 80px;
+  background-color: plum;
+}
+
+footer{
+  height: 45px;
+  background-color: darkslateblue;
+}
+
+.junbotron{
+  min-height: 400px;
+  width: auto;
+  background-color: darkkhaki;
+  margin: 20px auto;
+}
+
+.main-content{
+  min-height: 500px;
+  background-color: darkseagreen;
+  margin-bottom: 10px;
+}
